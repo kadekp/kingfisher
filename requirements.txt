@@ -1,0 +1,4 @@
+openai
+click
+Pillow
+python-dotenv

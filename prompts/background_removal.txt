@@ -1,0 +1,23 @@
+Professional product photography background removal task:
+
+1. IDENTIFY the main product/object in the center of the image
+2. REMOVE all background elements completely, creating perfect transparency
+3. PRESERVE these critical details:
+   - All product edges with pixel-perfect precision
+   - Original shadows and reflections that are part of the product itself
+   - Product textures, labels, and branding exactly as shown
+   - Original color accuracy and saturation
+   - Any transparent or semi-transparent parts of the product (like glass)
+
+4. ENSURE clean extraction:
+   - No background remnants or halos around edges
+   - Smooth, anti-aliased edges without jaggedness
+   - Maintain fine details like hair, fabric threads, or text
+   - Keep the product's natural drop shadow if it enhances realism
+
+5. OUTPUT requirements:
+   - PNG format with full alpha channel transparency
+   - Same resolution as input image
+   - Product centered in frame with original proportions
+
+Focus on e-commerce quality standards for professional product photography.
