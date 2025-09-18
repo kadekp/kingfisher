@@ -6,7 +6,8 @@
 
 Kingfisher automatically transforms a single product photo into multiple professional marketing images ready for e-commerce, social media, and advertising. Simply upload your product image and let AI handle the creative work - from background removal to generating compelling marketing scenes tailored to your product's characteristics.
 
-<img width="1333" height="2000" alt="kingfisher" src="https://github.com/user-attachments/assets/767d2037-3348-455f-9634-8866d8050a71" />
+<img width="1333" height="2000" alt="kingfisher(1)" src="https://github.com/user-attachments/assets/cc584abd-8654-4e44-9e7c-9d35dd63fcf0" />
+
 
 
 ## Features
